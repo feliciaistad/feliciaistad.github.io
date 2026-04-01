@@ -71,18 +71,31 @@ Gibson, J., **Istad, F.**, & Lin, A.Y.T. (work in progress). Country Status and 
 **Migration and Work**  
 
 **Istad, F.** (2025). Beyond the Classroom: Multicultural Education through Entrepreneurial Collaboration. Multicultural Education Review, 17(4), 468–483.
-Curran, N. M., Istad, F., & Chesnut, M. (2025). Standing out and fitting in: Korean coffee entrepreneurs’ strategies for survival. Food, Culture & Society, 28(3), 573–592.
+
+Curran, N. M., **Istad, F.**, & Chesnut, M. (2025). Standing out and fitting in: Korean coffee entrepreneurs’ strategies for survival. Food, Culture & Society, 28(3), 573–592.
+
 **Istad, F.** & Shah, S. A. (2024). Liberal Convergence or Differential Exclusion? Temporary Labor Migration Policy in Japan and Korea. Asian International Studies Review, 25(1), 109-140.
+
 **Istad, F.**, Kim, M. J., & Curran, N. M. (2024). Banal Koreanness: National imagery in multicultural-themed television shows. Critical Studies in Television, 19(2), 219-237.
+
 **Istad, F.** (2023). Rethinking Migrant Hierarchies: Non-Citizen Political Engagement and Policy Cycles in South Korea. Korea Observer, 54(1), 1-27.
+
 **Istad, F.** (2023). Towards a Multicultural Knowledge Economy? Emerging Issues in Tech Incubation for Immigrants in South Korea. In Y.S. Ahn (Ed.), Korea and the Global Society: Engagement, Reciprocity, and Tension. Routledge.
+
 **Istad, F.** (2022). In Search of Talent: Startup and Immigration Policy in South Korea. European Journal of Korean Studies, 22(1), 43–70.
+
 **Istad, F.**, Gibson, J., & Curran, N. M. (2022). More or less a foreigner: Domestic reception of multinational K-pop groups. Asian Journal of Social Science, 50(4), 268–75.
+
 **Istad, F.**, Kim, M. J., & Curran, N. M. (2022). Producing multiculturalism: Casting and editing migrants in Korean reality television. Continuum, 36(4), 528–45.
-Istad, F. (2022). Start-Up Visa: Rethinking Entrepreneurship and Human Capital in Immigration Policy. Asian Journal of Innovation and Policy, 11(1), 30-49.
+
+**Istad, F.** (2022). Start-Up Visa: Rethinking Entrepreneurship and Human Capital in Immigration Policy. Asian Journal of Innovation and Policy, 11(1), 30-49.
+
 **Istad, F.**, Varpahovskis, E., Miezan, E., Ayhan, K.J. (2021). Global Korea Scholarship Students: Intention to Stay in the Host Country to Work or Study after Graduation. Politics & Policy, 49(6), 1323-42.
 
 **Public Diplomacy**  
+
 Gibson J. & **Istad, F.** (2025). Towards a Political Model of Soft Power: An Empirical Evaluation of Korean Foreign Policy. Asian Survey, 65(3): 459–495.
+
 Lee, K., **Istad, F.**, & Kim, S.W. (2024). Public Diplomacy in Other Words: Mapping the Field in Korean-language Research. Journal of Public Diplomacy, 4(1), 73-88.
+
 **Istad, F.** (2020). Two-Way Engagement in Public Diplomacy: The Case of Talk Talk Korea. Asian Communication Research, 17(3), 115-41.
