@@ -24,9 +24,9 @@ repository               : "feliciaistad/feliciaistad.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Felicia Istad"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "Seoul"
   employer         : "Korea University"
   uri              : # URL
