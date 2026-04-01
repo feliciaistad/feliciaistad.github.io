@@ -24,7 +24,8 @@ repository               : "feliciaistad/feliciaistad.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-
+---
+---
   name             : # "Felicia Istad"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
