@@ -16,3 +16,22 @@ Heading 2
 
 Heading 3
 ======
+---
+layout: default
+title: "Research"
+---
+
+# Research
+
+## Working Papers
+
+**Title of Paper 1**  
+Short description of your paper.  
+
+
+---
+
+## Publications
+
+**Title of Published Article**  
+Journal name, year  
