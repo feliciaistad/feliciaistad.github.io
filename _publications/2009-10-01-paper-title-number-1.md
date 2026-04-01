@@ -2,7 +2,7 @@
 
 ## Forthcoming Research
 
-**Istad, F.**, & Lee, S. (under review). Agenda-Setting and Public Opinion on Asylum Policy.
+**Istad, F.**, & Lee, S. (under review). Agenda-Setting and Public Opinion on Asylum Policy: Evidence of Evolving Attitudes.
 
 **Istad, F.**, & Sim, Y. W. (under review). From Advantage to Precarity: A Difference-in-Differences Study of Caregiving and the Reversal of Skill Returns among Highly Educated Migrants.
 
